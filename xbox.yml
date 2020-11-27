@@ -1,0 +1,15 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.walmart.com/ip/Xbox-Series-X/443574645
+  - https://www.amazon.com/Xbox-X/dp/B08H75RTZ8
+  - https://www.target.com/p/xbox-series-x-console/-/A-80790841
+  - https://www.bestbuy.com/site/microsoft-xbox-series-x-1tb-console-black/6428324.p?skuId=6428324
+  - https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/40f01d2f-c702-4d6a-9f7e-a0ca343f10b7
+  - https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/bae995a1-12d3-4bc1-a355-8666d4bb729f
+  - https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/818b6aaa-ecd2-48c8-99a8-57268d4f9c3b
+  - https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/0946e97e-3a5d-40cf-a3f3-ec9b123a7415
+  - https://www.gamestop.com/accessories/xbox-series-x/products/xbox-series-x/11108371.html?condition=New
+  - https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4205032
+  - https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4205033
+  - https://www.newegg.com/p/N82E16868105273
